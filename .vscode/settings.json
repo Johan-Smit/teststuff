@@ -1,3 +1,5 @@
 {
-    "zowe.settings.version": 2
+    "zowe.settings.version": 2,
+    "appService.defaultWebAppToDeploy": "/subscriptions/b5f8e622-8271-41d9-9746-aa8da04dd03a/resourceGroups/johansm_rg_2653/providers/Microsoft.Web/sites/testapp-pleasework",
+    "appService.deploySubpath": "."
 }
